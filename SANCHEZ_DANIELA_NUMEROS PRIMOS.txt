@@ -1,0 +1,31 @@
+var factor =[];
+var a=0L;
+var z=0L;
+var n=600851475143L;
+for (var factor =1; factor<=n;factor++){
+{
+if(600851475143L % i==0)
+ {
+    a=factor ;
+
+ if(a%2==0)
+                        
+ }else if(a%3==0){
+                        
+  }else if(a%5==0){
+                       
+  } else if(a%7==0){
+                    
+ } else if (a>z){
+ }
+   z=a;
+    }
+
+     }
+
+            }
+
+            System.out.println(z);
+
+        }
+    }
